@@ -1,0 +1,101 @@
+body {
+  font-family: system-ui,-apple-system,BlinkMacSystemFont,Roboto,SF Pro Display,Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.bet-insert {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  flex-direction: column;
+  z-index: 19999;
+}
+
+.bet-tips {
+  width: 100%;
+  text-align: center;
+  margin-top: 0.4rem;
+}
+
+#bet-slogan, #bet-screen {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  display: none;
+}
+#bet-slogan {
+  background-color: #FFE60F;
+}
+#bet-slogan .bet-slogan-gif {
+  position: absolute;
+  width: 66.67%;
+  top: 40%;
+  left: 16.67%;
+  display: block;
+}
+#bet-slogan .bet-slogan-log{
+  position: absolute;
+  width: 40%;
+  bottom: 10.26%;
+  left: 30%;
+  display: block;
+}
+
+#bet-screen {
+  justify-content: center;
+}
+
+#bet-screen img {
+  width: 100%;
+}
+
+.bet-insert-loading {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.24rem;
+  font-weight: 400;
+  color: #6A6F7A;
+}
+
+.bet-insert-loading-spinner {
+  border: 0.05rem solid currentcolor;
+  border-bottom-color: transparent;
+  border-radius: 50%;
+  position: relative;
+  display: inline-block;
+  color: #E6E7EB;
+  vertical-align: middle;
+  pointer-events: none;
+  width: 0.4rem;
+  height: 0.4rem;
+  animation: bet-insert-loading 1s ease infinite;
+  margin-bottom: 0.2rem;
+}
+
+@keyframes bet-insert-loading {
+  from {
+    transform: rotate(0)
+  }
+
+  to {
+    transform: rotate(360deg)
+  }
+}
+
+.loading-show {
+  display: flex !important;
+}
+.loading-hide {
+  display: none !important;
+}
