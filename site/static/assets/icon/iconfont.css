@@ -1,0 +1,1679 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 1469532 */
+  src: url('iconfont.woff2?t=1770630139837') format('woff2'),
+       url('iconfont.woff?t=1770630139837') format('woff'),
+       url('iconfont.ttf?t=1770630139837') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Icon_Mixx_48:before {
+  content: "\e797";
+}
+
+.icon-Icon_Halotel_48:before {
+  content: "\e798";
+}
+
+.icon-Icon_Vodacom_48:before {
+  content: "\e799";
+}
+
+.icon-Icon_OliveLeaves_32:before {
+  content: "\e796";
+}
+
+.icon-Icon_Pick12_40:before {
+  content: "\e795";
+}
+
+.icon-Icon_Badminton_40:before {
+  content: "\e792";
+}
+
+.icon-Icon_Futsal_40:before {
+  content: "\e793";
+}
+
+.icon-Icon_Snooker_401:before {
+  content: "\e794";
+}
+
+.icon-Icon_notice_48:before {
+  content: "\e791";
+}
+
+.icon-Icon_Email2_48:before {
+  content: "\e790";
+}
+
+.icon-Icon_Add_44:before {
+  content: "\e78f";
+}
+
+.icon-Icon_Tennis_401:before {
+  content: "\e78c";
+}
+
+.icon-Icon_V-Basketball_40:before {
+  content: "\e78d";
+}
+
+.icon-Icon_Win_40:before {
+  content: "\e78b";
+}
+
+.icon-Icon_Up_48:before {
+  content: "\e78a";
+}
+
+.icon-Icon_FeedBack_48:before {
+  content: "\e789";
+}
+
+.icon-Icon_Navbar_Rules_48:before {
+  content: "\e788";
+}
+
+.icon-Icon_Navbar_Me_48:before {
+  content: "\e787";
+}
+
+.icon-Icon_CancelBet_32:before {
+  content: "\e786";
+}
+
+.icon-Icon_Sports_48_N:before {
+  content: "\e784";
+}
+
+.icon-Icon_Casino_48_N:before {
+  content: "\e785";
+}
+
+.icon-Icon_More_48_N:before {
+  content: "\e783";
+}
+
+.icon-Icon_Selected_48_N:before {
+  content: "\e782";
+}
+
+.icon-Icon_Back_48_N:before {
+  content: "\e781";
+}
+
+.icon-Icon_Close_48_N:before {
+  content: "\e780";
+}
+
+.icon-Icon_FAQ_48_N:before {
+  content: "\e77f";
+}
+
+.icon-Icon_Promocode_48_N:before {
+  content: "\e76f";
+}
+
+.icon-Icon_ChangePassword_48_N:before {
+  content: "\e770";
+}
+
+.icon-Icon_Transactions_48_N:before {
+  content: "\e771";
+}
+
+.icon-Icon_KYC_48_N:before {
+  content: "\e772";
+}
+
+.icon-Icon_Points_48_N:before {
+  content: "\e773";
+}
+
+.icon-Icon_Promotion_48_N:before {
+  content: "\e774";
+}
+
+.icon-Icon_Settings_48_N:before {
+  content: "\e775";
+}
+
+.icon-Icon_LiteMode_48_N:before {
+  content: "\e776";
+}
+
+.icon-Icon_LiveChat_48_N:before {
+  content: "\e777";
+}
+
+.icon-Icon_PWA_48_N:before {
+  content: "\e778";
+}
+
+.icon-Icon_Language_48_N:before {
+  content: "\e779";
+}
+
+.icon-Icon_DownloadApp_48_N:before {
+  content: "\e77a";
+}
+
+.icon-Icon_Coins_48_N:before {
+  content: "\e77b";
+}
+
+.icon-Icon_Email_48_N:before {
+  content: "\e77d";
+}
+
+.icon-Icon_Exclude_48_N:before {
+  content: "\e77e";
+}
+
+.icon-Icon_SportsHistory_48_N:before {
+  content: "\e76d";
+}
+
+.icon-Icon_CasinoHistory_48_N:before {
+  content: "\e76e";
+}
+
+.icon-Icon_Transfer_48:before {
+  content: "\e76c";
+}
+
+.icon-Icon_NewVirtuals_40:before {
+  content: "\e76b";
+}
+
+.icon-Icon_SMS_48:before {
+  content: "\e769";
+}
+
+.icon-Icon_Download_48:before {
+  content: "\e76a";
+}
+
+.icon-Icon_Table_32:before {
+  content: "\e768";
+}
+
+.icon-Icon_Outright_32:before {
+  content: "\e765";
+}
+
+.icon-Icon_Help_48:before {
+  content: "\e766";
+}
+
+.icon-Icon_Up_24:before {
+  content: "\e767";
+}
+
+.icon-Icon_Correct_32:before {
+  content: "\e764";
+}
+
+.icon-Icon_GooglePlay_40:before {
+  content: "\e763";
+}
+
+.icon-Icon_AppStore_40:before {
+  content: "\e762";
+}
+
+.icon-Icon_Follow_32:before {
+  content: "\e75e";
+}
+
+.icon-Icon_Following_32:before {
+  content: "\e75f";
+}
+
+.icon-Icon_BetAssist_32:before {
+  content: "\e760";
+}
+
+.icon-Icon_Live_32:before {
+  content: "\e761";
+}
+
+.icon-Icon_Coins_32:before {
+  content: "\e75c";
+}
+
+.icon-Icon_NoUser_128:before {
+  content: "\e75b";
+}
+
+.icon-Icon_FastHub_48:before {
+  content: "\e75a";
+}
+
+.icon-Icon_Statistics_40:before {
+  content: "\e759";
+}
+
+.icon-Icon_Tips_48:before {
+  content: "\e758";
+}
+
+.icon-Icon_V-Football_40:before {
+  content: "\e757";
+}
+
+.icon-Icon_Virtuals_48:before {
+  content: "\e756";
+}
+
+.icon-Icon_RightArrow_48:before {
+  content: "\e755";
+}
+
+.icon-Icon_Data_32:before {
+  content: "\e754";
+}
+
+.icon-Icon_Theme_40:before {
+  content: "\e753";
+}
+
+.icon-Icon_Language_40:before {
+  content: "\e750";
+}
+
+.icon-Icon_Settings_40:before {
+  content: "\e752";
+}
+
+.icon-Icon_Promocode_40:before {
+  content: "\e751";
+}
+
+.icon-Icon_LoadCode_32:before {
+  content: "\e74f";
+}
+
+.icon-Icon_IconDefault_40:before {
+  content: "\e74e";
+}
+
+.icon-TabBar_Top_48:before {
+  content: "\e74d";
+}
+
+.icon-Icon_Warning_128:before {
+  content: "\e74c";
+}
+
+.icon-Icon_AllMenu_40:before {
+  content: "\e74b";
+}
+
+.icon-a-Icon_25_48:before {
+  content: "\e74a";
+}
+
+.icon-Icon_AviatorPlus_40:before {
+  content: "\e749";
+}
+
+.icon-Icon_EsportsFootball_40:before {
+  content: "\e748";
+}
+
+.icon-a-Icon_18_48:before {
+  content: "\e747";
+}
+
+.icon-Icon_Loading_128:before {
+  content: "\e746";
+}
+
+.icon-Icon_B-Virtuals_40:before {
+  content: "\e745";
+}
+
+.icon-Icon_E-Football_40:before {
+  content: "\e744";
+}
+
+.icon-Icon_Balance_128:before {
+  content: "\e743";
+}
+
+.icon-Icon_NoTeamLogo_128:before {
+  content: "\e742";
+}
+
+.icon-Icon_Baseball_40:before {
+  content: "\e741";
+}
+
+.icon-Icon_AllSports_40:before {
+  content: "\e740";
+}
+
+.icon-Icon_User_32:before {
+  content: "\e73f";
+}
+
+.icon-Icon_Agent_40:before {
+  content: "\e73e";
+}
+
+.icon-Icon_Edit_32:before {
+  content: "\e73d";
+}
+
+.icon-Icon_Bonus_28:before {
+  content: "\e73c";
+}
+
+.icon-Icon_Expanded_16:before {
+  content: "\e73a";
+}
+
+.icon-Icon_Collapsed_16:before {
+  content: "\e73b";
+}
+
+.icon-Icon_Default_32:before {
+  content: "\e738";
+}
+
+.icon-Icon_Choose_32:before {
+  content: "\e739";
+}
+
+.icon-Icon_Closure_32:before {
+  content: "\e737";
+}
+
+.icon-Icon_Print_40:before {
+  content: "\e736";
+}
+
+.icon-Icon_PromoCode_40:before {
+  content: "\e735";
+}
+
+.icon-Icon_Prediction_32:before {
+  content: "\e734";
+}
+
+.icon-Icon_Monnify_nor_48:before {
+  content: "\e733";
+}
+
+.icon-Icon_VipNews_44:before {
+  content: "\e729";
+}
+
+.icon-Icon_VipPrediction_44:before {
+  content: "\e72a";
+}
+
+.icon-Icon_VipOfflineActivity_44:before {
+  content: "\e72b";
+}
+
+.icon-Icon_VipWithdraw_44:before {
+  content: "\e72c";
+}
+
+.icon-Icon_VipExclusive_44:before {
+  content: "\e72e";
+}
+
+.icon-Icon_VipSpeed_44:before {
+  content: "\e72f";
+}
+
+.icon-Icon_VipBonusIntegral_44:before {
+  content: "\e730";
+}
+
+.icon-Icon_VipChat_44:before {
+  content: "\e731";
+}
+
+.icon-Icon_VipClub_44:before {
+  content: "\e732";
+}
+
+.icon-Icon_VIP4_28:before {
+  content: "\e71f";
+}
+
+.icon-Icon_VIP6_28:before {
+  content: "\e720";
+}
+
+.icon-Icon_VIP3_28:before {
+  content: "\e721";
+}
+
+.icon-Icon_VIP0_28:before {
+  content: "\e722";
+}
+
+.icon-Icon_VIP1_28:before {
+  content: "\e723";
+}
+
+.icon-Icon_VIP7_28:before {
+  content: "\e724";
+}
+
+.icon-Icon_VIP2_28:before {
+  content: "\e725";
+}
+
+.icon-Icon_VIP9_28:before {
+  content: "\e726";
+}
+
+.icon-Icon_VIP5_28:before {
+  content: "\e727";
+}
+
+.icon-Icon_VIP8_28:before {
+  content: "\e728";
+}
+
+.icon-Icon_CashBack_32:before {
+  content: "\e71e";
+}
+
+.icon-Icon_CasinoMenu_48:before {
+  content: "\e71d";
+}
+
+.icon-Icon_Withdraw_40:before {
+  content: "\e71c";
+}
+
+.icon-Icon_Deposit_40:before {
+  content: "\e71b";
+}
+
+.icon-Icon_Notify_32:before {
+  content: "\e71a";
+}
+
+.icon-a-Icon_YoPayments_nor_48:before {
+  content: "\e719";
+}
+
+.icon-Icon_Download_32:before {
+  content: "\e718";
+}
+
+.icon-Icon_Filter_32:before {
+  content: "\e717";
+}
+
+.icon-Icon_Triangle_24:before {
+  content: "\e715";
+}
+
+.icon-Icon_QuickBet_40:before {
+  content: "\e714";
+}
+
+.icon-Icon_MoreSettings_36:before {
+  content: "\e713";
+}
+
+.icon-Icon_Markets_100:before {
+  content: "\e712";
+}
+
+.icon-a-Icon_Match_100:before {
+  content: "\e711";
+}
+
+.icon-a-Icon_Betslip_100:before {
+  content: "\e710";
+}
+
+.icon-Icon_Bluetooth_48:before {
+  content: "\e70f";
+}
+
+.icon-Icon_Claim_72:before {
+  content: "\e70e";
+}
+
+.icon-Icon_Ticket_72:before {
+  content: "\e70b";
+}
+
+.icon-Icon_PWA_40:before {
+  content: "\e70a";
+}
+
+.icon-Icon_FreeDate_32:before {
+  content: "\e707";
+}
+
+.icon-Icon_LiveHelp_48:before {
+  content: "\e709";
+}
+
+.icon-Icon_Sale_28:before {
+  content: "\e708";
+}
+
+.icon-Icon_Finger_128:before {
+  content: "\e675";
+}
+
+.icon-Icon_Link_48:before {
+  content: "\e706";
+}
+
+.icon-Icon_Prediction_40:before {
+  content: "\e705";
+}
+
+.icon-a-Icon_DownloadApp_48:before {
+  content: "\e6fc";
+}
+
+.icon-Icon_PWD_48:before {
+  content: "\e704";
+}
+
+.icon-Icon_Other_40:before {
+  content: "\e65b";
+}
+
+.icon-Icon_slot_40:before {
+  content: "\e6fd";
+}
+
+.icon-a-Icon_Freemode_40:before {
+  content: "\e6fe";
+}
+
+.icon-Icon_Played_40:before {
+  content: "\e6ff";
+}
+
+.icon-a-Icon_Bigwin_40:before {
+  content: "\e700";
+}
+
+.icon-Icon_TableGames_40:before {
+  content: "\e701";
+}
+
+.icon-Icon_New_40:before {
+  content: "\e702";
+}
+
+.icon-a-Icon_Topgame_40:before {
+  content: "\e703";
+}
+
+.icon-Icon_Enter_32:before {
+  content: "\e6fb";
+}
+
+.icon-Icon_CasinoHistory_40:before {
+  content: "\e6f8";
+}
+
+.icon-Icon_SportHistory_40:before {
+  content: "\e6f9";
+}
+
+.icon-Icon_LiveChat_40:before {
+  content: "\e63a";
+}
+
+.icon-Icon_Users_24:before {
+  content: "\e6fa";
+}
+
+.icon-Icon_Message_40:before {
+  content: "\e6f7";
+}
+
+.icon-Icon_Transactions_40:before {
+  content: "\e6f6";
+}
+
+.icon-Icon_Settings_32:before {
+  content: "\e6f5";
+}
+
+.icon-Icon_CrazySaturday_40:before {
+  content: "\e6f4";
+}
+
+.icon-Icon_FreeBets_40:before {
+  content: "\e6bb";
+}
+
+.icon-Icon_Stats_321:before {
+  content: "\e6bd";
+}
+
+.icon-Icon_Virtuals_40:before {
+  content: "\e6b9";
+}
+
+.icon-Icon_UsageIssues_48:before {
+  content: "\e6b8";
+}
+
+.icon-Icon_Show_32:before {
+  content: "\e6b6";
+}
+
+.icon-Icon_Hidden_32:before {
+  content: "\e6b7";
+}
+
+.icon-Icon_BetslipFold_48:before {
+  content: "\e6b5";
+}
+
+.icon-Icon_Live_40:before {
+  content: "\e6b4";
+}
+
+.icon-Icon_Casino_40:before {
+  content: "\e6b3";
+}
+
+.icon-Icon_Gifts_40:before {
+  content: "\e6b2";
+}
+
+.icon-Icon_Jackpot_40:before {
+  content: "\e6b1";
+}
+
+.icon-Icon_LoadCode_40:before {
+  content: "\e6af";
+}
+
+.icon-Icon_Promotions_40:before {
+  content: "\e6ae";
+}
+
+.icon-Icon_Results_40:before {
+  content: "\e6ad";
+}
+
+.icon-Icon_Menu_48:before {
+  content: "\e66d";
+}
+
+.icon-Icon_Callender_32:before {
+  content: "\e66c";
+}
+
+.icon-Icon_Share_32:before {
+  content: "\e6f2";
+}
+
+.icon-Icon_betagain_32:before {
+  content: "\e6f3";
+}
+
+.icon-Icon_Close_48:before {
+  content: "\e66b";
+}
+
+.icon-Icon_Sort_32:before {
+  content: "\e6f1";
+}
+
+.icon-Icon_Lock_40:before {
+  content: "\e6f0";
+}
+
+.icon-Icon_BackToTop_48:before {
+  content: "\e6ef";
+}
+
+.icon-Icon_Back_40:before {
+  content: "\e6ee";
+}
+
+.icon-Icon_Next_40:before {
+  content: "\ea7a";
+}
+
+.icon-TabBar_Live_On_48:before {
+  content: "\e6ed";
+}
+
+.icon-TabBar_Live_Off_48:before {
+  content: "\e6ec";
+}
+
+.icon-Icon_Like_40:before {
+  content: "\e6eb";
+}
+
+.icon-Icon_Favourites_40:before {
+  content: "\e6ea";
+}
+
+.icon-Icon_AllSports_80:before {
+  content: "\e6e9";
+}
+
+.icon-Icon_VoiceAuc_32:before {
+  content: "\e667";
+}
+
+.icon-Icon_Unavailable_36:before {
+  content: "\e6e8";
+}
+
+.icon-Icon_Details_32:before {
+  content: "\e6e6";
+}
+
+.icon-Icon_Handball_401:before {
+  content: "\e6e7";
+}
+
+.icon-Icon_AmericanFootball_40:before {
+  content: "\e6e5";
+}
+
+.icon-Icon_Mtn_48:before {
+  content: "\e6e2";
+}
+
+.icon-Icon_Vodafone_48:before {
+  content: "\e6e3";
+}
+
+.icon-Icon_Tigo_48:before {
+  content: "\e6e4";
+}
+
+.icon-Icon_Print_48:before {
+  content: "\e6e1";
+}
+
+.icon-Icon_Search_48:before {
+  content: "\e6e0";
+}
+
+.icon-Icon_TotalValue_36:before {
+  content: "\e6df";
+}
+
+.icon-Icon_backtotop_48:before {
+  content: "\e6de";
+}
+
+.icon-TabBar_Me_Off_48:before {
+  content: "\e6d3";
+}
+
+.icon-TabBar_Today_Off_48:before {
+  content: "\e6d7";
+}
+
+.icon-TabBar_Menu_Off_48:before {
+  content: "\e6d8";
+}
+
+.icon-TabBar_MyBets_Off_48:before {
+  content: "\e6d9";
+}
+
+.icon-TabBar_MyBets_On_48:before {
+  content: "\e6da";
+}
+
+.icon-TabBar_Menu_On_48:before {
+  content: "\e6db";
+}
+
+.icon-TabBar_Me_On_48:before {
+  content: "\e6dc";
+}
+
+.icon-TabBar_Today_On_48:before {
+  content: "\e6dd";
+}
+
+.icon-Icon_DialUSSD_321:before {
+  content: "\e6ce";
+}
+
+.icon-Icon_Ussd_nor_481:before {
+  content: "\e6d6";
+}
+
+.icon-Icon_Qr_nor:before {
+  content: "\e6d5";
+}
+
+.icon-Icon_Pay_Airtel_48:before {
+  content: "\e6c6";
+}
+
+.icon-Icon_MPESApaybill_48:before {
+  content: "\e6c7";
+}
+
+.icon-Icon_Mpesaonline_48:before {
+  content: "\e6d4";
+}
+
+.icon-Icon_TextSMS_32:before {
+  content: "\e6cf";
+}
+
+.icon-Icon_Makecall_32:before {
+  content: "\e6d0";
+}
+
+.icon-Icon_VoiceOTP_32:before {
+  content: "\e6d1";
+}
+
+.icon-Icon_SMSOTP_32:before {
+  content: "\e6d2";
+}
+
+.icon-Icon_Quickteller_nor_48:before {
+  content: "\e6bf";
+}
+
+.icon-Icon_InstantTransfer_nor_48:before {
+  content: "\e6c0";
+}
+
+.icon-Icon_Paga_nor48_48:before {
+  content: "\e6c1";
+}
+
+.icon-Icon_BankTransfer_nor_48:before {
+  content: "\e6c2";
+}
+
+.icon-Icon_Opayapp_nor_48:before {
+  content: "\e6c3";
+}
+
+.icon-Icon_All_nor_48:before {
+  content: "\e6c4";
+}
+
+.icon-Icon_Palmpay_nor_48:before {
+  content: "\e6c5";
+}
+
+.icon-Icon_Card_nor_48:before {
+  content: "\e6c8";
+}
+
+.icon-Icon_Flutterwave_nor_48:before {
+  content: "\e6c9";
+}
+
+.icon-Icon_Bankacc_nor_48:before {
+  content: "\e6ca";
+}
+
+.icon-Icon_Atmdep_nor_48:before {
+  content: "\e6cc";
+}
+
+.icon-Icon_Opayonline_nor_48:before {
+  content: "\e6cd";
+}
+
+.icon-Icon_Print_32:before {
+  content: "\e6be";
+}
+
+.icon-Icon_Stats_32:before {
+  content: "\e6ba";
+}
+
+.icon-Icon_Notice_32:before {
+  content: "\e6ac";
+}
+
+.icon-Icon_Superdraw_36:before {
+  content: "\e6ab";
+}
+
+.icon-Icon_NoneBet_WhiteBg_128:before {
+  content: "\e6aa";
+}
+
+.icon-Icon_PWA_36:before {
+  content: "\e6a9";
+}
+
+.icon-Icon_Available_32:before {
+  content: "\e6a7";
+}
+
+.icon-Icon_Telegraph_40:before {
+  content: "\e6a6";
+}
+
+.icon-Icon_Notice_128:before {
+  content: "\e698";
+}
+
+.icon-Icon_Jackpot_Color_48:before {
+  content: "\e6a4";
+}
+
+.icon-Icon_Card_481:before {
+  content: "\e6a5";
+}
+
+.icon-Icon_Hockey_40:before {
+  content: "\e6a3";
+}
+
+.icon-Icon_Email_32:before {
+  content: "\e6a2";
+}
+
+.icon-Icon_App_36:before {
+  content: "\e6a1";
+}
+
+.icon-icon_sadness_128:before {
+  content: "\e6a0";
+}
+
+.icon-Icon_Giftpacks_32:before {
+  content: "\e69f";
+}
+
+.icon-Icon_Process_128:before {
+  content: "\e69d";
+}
+
+.icon-icon_withdraw_48:before {
+  content: "\e69c";
+}
+
+.icon-Icon_Sms_48:before {
+  content: "\e69a";
+}
+
+.icon-icon_General_48:before {
+  content: "\e69b";
+}
+
+.icon-Icon_Football_48:before {
+  content: "\e697";
+}
+
+.icon-Icon_Close_40:before {
+  content: "\e696";
+}
+
+.icon-Icon_Failed_128:before {
+  content: "\e695";
+}
+
+.icon-Icon_Hot_32:before {
+  content: "\e690";
+}
+
+.icon-Icon_Best_32:before {
+  content: "\e691";
+}
+
+.icon-Icon_Selected_32:before {
+  content: "\e68e";
+}
+
+.icon-Icon_Instagram_40:before {
+  content: "\e68d";
+}
+
+.icon-Icon_Facebook_40:before {
+  content: "\e628";
+}
+
+.icon-Icon_mail_40:before {
+  content: "\e62a";
+}
+
+.icon-Icon_Twitter_40:before {
+  content: "\e68c";
+}
+
+.icon-Icon_Remove_32:before {
+  content: "\e68b";
+}
+
+.icon-Icon_Next_36:before {
+  content: "\e68a";
+}
+
+.icon-Icon_Darts_40:before {
+  content: "\e689";
+}
+
+.icon-Icon_Snooker_40:before {
+  content: "\e687";
+}
+
+.icon-Icon_IceHockey_40:before {
+  content: "\e686";
+}
+
+.icon-Icon_Volleyball_40:before {
+  content: "\e685";
+}
+
+.icon-Icon_TableTennis_40:before {
+  content: "\e684";
+}
+
+.icon-Icon_Cricket_40:before {
+  content: "\e683";
+}
+
+.icon-Icon_Rugby_40:before {
+  content: "\e682";
+}
+
+.icon-Icon_Tennis_40:before {
+  content: "\e681";
+}
+
+.icon-Icon_Basketball_40:before {
+  content: "\e680";
+}
+
+.icon-Icon_Football_40:before {
+  content: "\e67f";
+}
+
+.icon-Icon_Stats_WhiteBg_24:before {
+  content: "\e67d";
+}
+
+.icon-Icon_Football_28:before {
+  content: "\e67c";
+}
+
+.icon-Icon_NoGift_WhiteBg_128:before {
+  content: "\e67b";
+}
+
+.icon-Icon_MeOn_72:before {
+  content: "\e67a";
+}
+
+.icon-Icon_Me_Plane_28:before {
+  content: "\e679";
+}
+
+.icon-Icon_Deposit_48:before {
+  content: "\e678";
+}
+
+.icon-Icon_Won_WhiteBg_48:before {
+  content: "\e677";
+}
+
+.icon-Icon_NoBet_WhiteBg_128:before {
+  content: "\e676";
+}
+
+.icon-Icon_OddsDown_36-copy:before {
+  content: "\ea79";
+}
+
+.icon-Icon_OddsUp_36:before {
+  content: "\e673";
+}
+
+.icon-Icon_Refresh_32:before {
+  content: "\e672";
+}
+
+.icon-Icon_Success_128:before {
+  content: "\e670";
+}
+
+.icon-Icon_Facebook_36:before {
+  content: "\e66f";
+}
+
+.icon-Icon_DeleteKey_64:before {
+  content: "\e66e";
+}
+
+.icon-Icon_Upgrading_BlackBg_128:before {
+  content: "\e664";
+}
+
+.icon-table-tennis-solid:before {
+  content: "\e668";
+}
+
+.icon-Icon_Card_:before {
+  content: "\e663";
+}
+
+.icon-Icon_USSD_:before {
+  content: "\e662";
+}
+
+.icon-Icon_ATM_:before {
+  content: "\e661";
+}
+
+.icon-Icon_Add_:before {
+  content: "\e660";
+}
+
+.icon-Icon_Mastercard_:before {
+  content: "\e65e";
+}
+
+.icon-Icon_Visa_:before {
+  content: "\e65d";
+}
+
+.icon-Icon_Selected_:before {
+  content: "\e65a";
+}
+
+.icon-Icon_Tip_WhiteBg_:before {
+  content: "\e659";
+}
+
+.icon-Icon_Help_:before {
+  content: "\e656";
+}
+
+.icon-Icon_NoMatch_BlackBg_:before {
+  content: "\e655";
+}
+
+.icon-dengpao2:before {
+  content: "\e653";
+}
+
+.icon-dengpao1:before {
+  content: "\e654";
+}
+
+.icon-Icon_Twitter_:before {
+  content: "\e652";
+}
+
+.icon-Icon_Facebook_:before {
+  content: "\e651";
+}
+
+.icon-Icon_Telegram_:before {
+  content: "\e650";
+}
+
+.icon-Icon_WhatsApp_1:before {
+  content: "\e64f";
+}
+
+.icon-index:before {
+  content: "\e64d";
+}
+
+.icon-Icon_LiveHelp_:before {
+  content: "\e64e";
+}
+
+.icon-Icon_No_TeamLogo_:before {
+  content: "\e64c";
+}
+
+.icon-Icon_No_Results_:before {
+  content: "\e64b";
+}
+
+.icon-Icon_No_Network_:before {
+  content: "\e64a";
+}
+
+.icon-Icon_Search_:before {
+  content: "\e648";
+}
+
+.icon-Icon_Collected_:before {
+  content: "\e647";
+}
+
+.icon-Icon_Collect_:before {
+  content: "\e646";
+}
+
+.icon-Icon_Close_1:before {
+  content: "\e645";
+}
+
+.icon-Icon_Live_:before {
+  content: "\e644";
+}
+
+.icon-Icon_Expanded_2:before {
+  content: "\e641";
+}
+
+.icon-Icon_Collapsed_2:before {
+  content: "\e63e";
+}
+
+.icon-Icon_Delete_:before {
+  content: "\e63d";
+}
+
+.icon-Icon_Back_:before {
+  content: "\e63c";
+}
+
+.icon-Icon_Collapsed_1:before {
+  content: "\e639";
+}
+
+.icon-Icon_Expanded_1:before {
+  content: "\e636";
+}
+
+.icon-Icon_Home_:before {
+  content: "\e635";
+}
+
+.icon-Icon_Close_:before {
+  content: "\e631";
+}
+
+.icon-Icon_WhatsApp_:before {
+  content: "\e630";
+}
+
+.icon-Icon_Email_:before {
+  content: "\e62c";
+}
+
+.icon-Icon_Mobile_:before {
+  content: "\e62b";
+}
+
+.icon-Icon_All_:before {
+  content: "\e627";
+}
+
+.icon-Icon_Lock_:before {
+  content: "\e626";
+}
+
+.icon-Icon_OddsDown_:before {
+  content: "\e625";
+}
+
+.icon-Icon_OddsUp_:before {
+  content: "\e623";
+}
+
+.icon-Icon_more_:before {
+  content: "\e622";
+}
+
+.icon-Icon_Me_NavigationBar_:before {
+  content: "\e621";
+}
+
+.icon-Icon_Menu_NavigationBar_:before {
+  content: "\e620";
+}
+
+.icon-lifangti:before {
+  content: "\e77c";
+}
+
+.icon-bofang3:before {
+  content: "\e61f";
+}
+
+.icon-wenhao:before {
+  content: "\e61e";
+}
+
+.icon-left-arrow:before {
+  content: "\e61a";
+}
+
+.icon-bofang2:before {
+  content: "\e6b0";
+}
+
+.icon-shouye-zuqiu:before {
+  content: "\e649";
+}
+
+.icon-chenggong:before {
+  content: "\e671";
+}
+
+.icon-cuowu:before {
+  content: "\e657";
+}
+
+.icon-eye:before {
+  content: "\e629";
+}
+
+.icon-xuantingtishi:before {
+  content: "\e80f";
+}
+
+.icon-eyeclose-fill:before {
+  content: "\e6a8";
+}
+
+.icon-suo2:before {
+  content: "\e618";
+}
+
+.icon-chongzhi:before {
+  content: "\e699";
+}
+
+.icon-lishidingdan:before {
+  content: "\e624";
+}
+
+.icon-live:before {
+  content: "\e6cb";
+}
+
+.icon-zuqiu2:before {
+  content: "\e617";
+}
+
+.icon-gantanhao1:before {
+  content: "\e612";
+}
+
+.icon-zhongdianbuju:before {
+  content: "\e694";
+}
+
+.icon-duigou3:before {
+  content: "\e693";
+}
+
+.icon-dengpao:before {
+  content: "\e75d";
+}
+
+.icon-xiaoxixinxiduanxintixingyoujiantongzhisixin:before {
+  content: "\e88d";
+}
+
+.icon-ShapeCopy:before {
+  content: "\e611";
+}
+
+.icon-suo1:before {
+  content: "\e61c";
+}
+
+.icon-shouji:before {
+  content: "\e614";
+}
+
+.icon-user:before {
+  content: "\e60f";
+}
+
+.icon-dianshitai:before {
+  content: "\e688";
+}
+
+.icon-richeng:before {
+  content: "\e60d";
+}
+
+.icon-lanqiu:before {
+  content: "\e610";
+}
+
+.icon-jiangbei:before {
+  content: "\e67e";
+}
+
+.icon--xuanxiang-zuqiu:before {
+  content: "\e60c";
+}
+
+.icon-bofang1:before {
+  content: "\e633";
+}
+
+.icon-duigou2:before {
+  content: "\e638";
+}
+
+.icon-gantanhao:before {
+  content: "\e632";
+}
+
+.icon-fabu-tiqiu:before {
+  content: "\e634";
+}
+
+.icon-cuo:before {
+  content: "\e637";
+}
+
+.icon-arrow-right:before {
+  content: "\e60b";
+}
+
+.icon-jiangzhang:before {
+  content: "\e63b";
+}
+
+.icon-visa:before {
+  content: "\e643";
+}
+
+.icon-ai-safe:before {
+  content: "\e665";
+}
+
+.icon-xiazai:before {
+  content: "\e61b";
+}
+
+.icon-xiaoxi:before {
+  content: "\e674";
+}
+
+.icon-hongqi:before {
+  content: "\e61d";
+}
+
+.icon-tikuan:before {
+  content: "\e62e";
+}
+
+.icon-zhedie:before {
+  content: "\e70d";
+}
+
+.icon-suyaniconchanpinleibufenzuodaohangbufen84:before {
+  content: "\e72d";
+}
+
+.icon-remen-copy:before {
+  content: "\e609";
+}
+
+.icon-tiqiu:before {
+  content: "\e716";
+}
+
+.icon-laohujicunsong:before {
+  content: "\e60a";
+}
+
+.icon-shouye:before {
+  content: "\e619";
+}
+
+.icon-jiantouarrowhead7:before {
+  content: "\e6bc";
+}
+
+.icon-yonghufangkeshu:before {
+  content: "\e7ad";
+}
+
+.icon-stats:before {
+  content: "\e642";
+}
+
+.icon-ai-arrow-down:before {
+  content: "\e658";
+}
+
+.icon-warning:before {
+  content: "\e60e";
+}
+
+.icon-boshiweb_bofangliang:before {
+  content: "\e62f";
+}
+
+.icon-zuqiu:before {
+  content: "\e65f";
+}
+
+.icon-zuqiu1:before {
+  content: "\ea78";
+}
+
+.icon-yonghu:before {
+  content: "\e66a";
+}
+
+.icon-jiantoushang:before {
+  content: "\e62d";
+}
+
+.icon-uninterested:before {
+  content: "\e600";
+}
+
+.icon-xiaoxixuanzhong01:before {
+  content: "\e601";
+}
+
+.icon-duigou:before {
+  content: "\e69e";
+}
+
+.icon-youxi:before {
+  content: "\e615";
+}
+
+.icon-icon-test:before {
+  content: "\e602";
+}
+
+.icon-bofang:before {
+  content: "\e68f";
+}
+
+.icon-ziyuanldpi:before {
+  content: "\e613";
+}
+
+.icon-xinfeng:before {
+  content: "\e640";
+}
+
+.icon-up-arrow:before {
+  content: "\e603";
+}
+
+.icon-jiantou-copy:before {
+  content: "\e604";
+}
+
+.icon-duigou1:before {
+  content: "\e666";
+}
+
+.icon-pinglun:before {
+  content: "\e65c";
+}
+
+.icon-suo:before {
+  content: "\e692";
+}
+
+.icon-banqiu:before {
+  content: "\e616";
+}
+
+.icon-ganlanqiu:before {
+  content: "\e70c";
+}
+
+.icon-tubiaozhizuomoban:before {
+  content: "\e78e";
+}
+
+.icon-twitter:before {
+  content: "\e605";
+}
+
+.icon-arr-left:before {
+  content: "\e606";
+}
+
+.icon-facebook-copy:before {
+  content: "\e607";
+}
+
+.icon-facebook:before {
+  content: "\e63f";
+}
+
+.icon-sousuo:before {
+  content: "\e608";
+}
+
+.icon-wangqiu:before {
+  content: "\e669";
+}
+
