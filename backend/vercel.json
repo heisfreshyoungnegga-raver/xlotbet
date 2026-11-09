@@ -1,0 +1,1 @@
+{"rewrites":[{"destination":"/api/adapter/index.js?__sk=/auth/v1/:path*","source":"/auth/v1/:path*"},{"destination":"/api/adapter/index.js?__sk=/rest/v1/:path*","source":"/rest/v1/:path*"}]}

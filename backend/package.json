@@ -1,0 +1,9 @@
+{
+  "name": "xlotbet-backend",
+  "private": true,
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
